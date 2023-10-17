@@ -16,3 +16,7 @@
 **Screenshots**
 
 ![scrnli_10_17_2023_7-08-09 PM](https://github.com/anishVermaIsHere/table-dailyrunrate/assets/97972189/7756dbd6-37de-4412-9bf4-2a3ddf68151d)
+
+**Assignment Document**
+
+[JavaScript Assignment _ Hunt Digital Media.pdf](https://github.com/anishVermaIsHere/table-dailyrunrate/files/12929554/JavaScript.Assignment._.Hunt.Digital.Media.pdf)
