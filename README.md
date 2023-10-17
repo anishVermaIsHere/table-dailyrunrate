@@ -1,8 +1,17 @@
-# React + Vite
+# Data Table Assignment for Daily Run Rate 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**To run application follow these steps**
 
-Currently, two official plugins are available:
+1. Download this code as zip or clone by command **`git clone https://github.com/anishVermaIsHere/table-dailyrunrate.git`**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Create a new folder and copy all files of this repo and paste into your created project folder. 
+
+3. Open VSCode Terminal with destination folder run the command **`npm install`**.
+
+3. After the installation of all dependencies and environment setup, run command **`npm run dev`** in terminal.
+
+4. Now your server will start successfully.
+
+
+**Screenshots**
+
